@@ -41,4 +41,4 @@ CRN 32738
 * Weekly review of current events: [#cs533f24](https://twitter.com/search?q=%23cs533f24&src=typed_query&f=live)
 
 * Assignment 1: Course Setup and RCR
-   * [Due: Feb 2](/assignments/assignment-1.md)
+   * [Due: Feb 2](/assignments/assignment-01.md)
