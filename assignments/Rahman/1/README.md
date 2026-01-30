@@ -4,25 +4,28 @@
 This is the implementation of `learnyouhtml`.
 
 ## Directory
-
-Rahman
-└── 1
-    ├── README.md
-    ├── html
-    │   ├── attributes.html
-    │   ├── blocks.html
-    │   ├── forms.html
-    │   ├── headings.html
-    │   ├── hello-world.html
-    │   ├── inline-tags.html
-    │   ├── links.html
-    │   ├── lists.html
-    │   ├── styles.html
-    │   ├── tables.html
-    │   └── tags.html
-    └── imgs
-        ├── done A1.png
-        └── learnyouhtml.png
+```ultree
+output: simple
+.
+    Rahman
+        1
+            README.md
+            html
+                attributes.html
+                blocks.html
+                forms.html
+                headings.html
+                hello-world.html
+                inline-tags.html
+                links.html
+                lists.html
+                styles.html
+                tables.html
+                tags.html
+            imgs
+                done A1.png
+                learnyouhtml.png                
+```
 
 ## Before
 ![Before](imgs/learnyouhtml.png)
